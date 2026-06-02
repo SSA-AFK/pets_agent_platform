@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Pet Smart System](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=cute%20pet%20shop%20management%20system%20dashboard%20with%20dogs%20and%20cats%2C%20modern%20UI%20design%2C%20purple%20and%20blue%20gradient%20theme%2C%20professional%20business%20analytics&image_size=landscape_16_9)
+![Pet Smart System](https://placehold.co/1200x475/7c3aed/ffffff?text=🐾+Pet+Smart+System&font=roboto)
 
 **基于 FastAPI + React + PostgreSQL 的智能宠物店管理平台**
 
