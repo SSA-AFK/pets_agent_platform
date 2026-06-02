@@ -33,38 +33,31 @@ Pet Smart System 是一个面向宠物店的全栈智能管理系统，集成了
 
 ## 🖥️ 产品截图
 
+### 登录页面
+<div align="center">
+
+![登录页面](img/919d59230d2c96b21a633a901ef1909c.png)
+
+</div>
+
 ### 管理员工作台
 <div align="center">
 
-![管理员工作台](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pet%20shop%20admin%20dashboard%20with%20sales%20charts%2C%20inventory%20management%2C%20staff%20scheduling%2C%20modern%20purple%20UI%20design&image_size=landscape_16_9)
-
-</div>
-
-### AI 智能客服
-<div align="center">
-
-![AI 智能客服](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=AI%20chatbot%20interface%20for%20pet%20shop%2C%20chat%20messages%20with%20pet%20care%20advice%2C%20modern%20messaging%20UI&image_size=landscape_16_9)
-
-</div>
-
-### 知识库管理
-<div align="center">
-
-![知识库管理](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=knowledge%20base%20management%20interface%20with%20document%20upload%20and%20editing%2C%20clean%20modern%20UI&image_size=landscape_16_9)
+![管理员工作台](img/0c53f1cb85a7cb73b2341bfec167d0b5.png)
 
 </div>
 
 ### 员工端
 <div align="center">
 
-![员工端](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pet%20grooming%20staff%20mobile%20interface%20with%20appointment%20schedule%20and%20pet%20care%20tools&image_size=portrait_16_9)
+![员工端](img/2cb875f34e68393f3ed4c4f243737052.png)
 
 </div>
 
 ### 顾客端
 <div align="center">
 
-![顾客端](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=pet%20owner%20mobile%20app%20interface%20with%20pet%20health%20records%20and%20appointment%20booking&image_size=portrait_16_9)
+![顾客端](img/8dda812e40f663f6ebcf26bfdac3e315.png)
 
 </div>
 
