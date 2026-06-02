@@ -33,7 +33,7 @@ Pet Smart System 是一个面向宠物店的全栈智能管理系统，集成了
 
 ## 🖥️ 产品截图
 
-### 登录页面
+### 客户小程序页面
 <div align="center">
 
 ![登录页面](img/919d59230d2c96b21a633a901ef1909c.png)
@@ -47,7 +47,7 @@ Pet Smart System 是一个面向宠物店的全栈智能管理系统，集成了
 
 </div>
 
-### 员工端
+### 老板（超级管理员）端
 <div align="center">
 
 ![员工端](img/2cb875f34e68393f3ed4c4f243737052.png)
